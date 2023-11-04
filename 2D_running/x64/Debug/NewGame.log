@@ -1,0 +1,6 @@
+﻿  Player.cpp
+D:\DxLibGame\自主ゲーム制作\NewGame\Player.cpp(25,45): warning C4244: '引数': 'const int' から 'float' への変換です。データが失われる可能性があります。
+D:\DxLibGame\自主ゲーム制作\NewGame\Player.cpp(25,35): warning C4244: '引数': 'const int' から 'float' への変換です。データが失われる可能性があります。
+D:\DxLibGame\自主ゲーム制作\NewGame\Player.cpp(26,53): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\DxLibGame\自主ゲーム制作\NewGame\Player.cpp(27,53): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+  NewGame.vcxproj -> D:\DxLibGame\自主ゲーム制作\NewGame\x64\Debug\NewGame.exe

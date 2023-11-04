@@ -1,0 +1,2 @@
+E:\DxLibGame\自主ゲーム制作\NewGame\x64\Debug\NewGame.exe
+D:\DxLibGame\自主ゲーム制作\NewGame\x64\Debug\NewGame.exe
